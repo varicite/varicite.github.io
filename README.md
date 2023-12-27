@@ -12,25 +12,75 @@ This SVG file will then be used to cut the fob out of plastic acrylic.
 
 The current series of fobs will consist of a series of shapes and figures, all made with various styles. These fobs will also come in different sizes.
 
-* Shapes
-  * Circle
-  * Square
-  * Rectangle
-  * Triangle
+  <ul>
+    <li>
+      Shapes
+    </li>
+    <ul>
+      <li>
+        Circle
+      </li>
+      <li>
+        Square
+      </li>
+      <li>
+        Rectangle
+      </li>
+      <li>
+        Triangle
+      </li>
+    </ul>
+  </ul>
 
-* Figures
-  * Heart
-  * Skull
+  <ul>
+    <li>
+      Figures
+    </li>
+    <ul>
+      <li>
+        Heart
+      </li>
+      <li>
+        Skull
+      </li>
+    </ul>
 
-* Styles
-  * Pendant, comes with a hole to be put on a necklace
-  * Plain, no adornment
-  * Interlock, slots cut into the fob so that they can interlock with other fobs
+  </ul>
 
-* Sizes
-  * Small 30mm wide
-  * Medium 60mm wide
-  * Large 90mm wide
+  <ul>
+    <li>
+      Styles
+    </li>
+    <ul>
+      <li>
+        Pendant, comes with a hole to be put on a necklace
+      </li>
+      <li>
+        Plain, no adornment
+      </li>
+      <li>
+        Interlock, slots cut into the fob so that they can interlock with other fobs
+      </li>
+    </ul>
+
+  </ul>
+
+  <ul>
+    <li>
+      Sizes
+    </li>
+    <ul>
+      <li>
+        Small 30mm wide
+      </li>
+      <li>
+        Medium 60mm wide
+      </li>
+      <li>
+        Large 90mm wide
+      </li>
+    </ul>
+  </ul>
 
 ### Backend Blockchain
 
